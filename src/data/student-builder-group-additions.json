@@ -29,7 +29,7 @@
     "verificationUrl": "https://www.meetup.com/aws-sbg-at-itum/"
   },
   {
-    "name": "AWS Student Builder Group at Guru Nanak Dev University",
+    "name": "AWS Student Builder Group at Guru Nanak Dev University, Amritsar Campus",
     "category": "cloud-clubs",
     "location": "Amritsar, India",
      "joinUrl": "https://www.meetup.com/aws-sbg-at-guru-nanak-dev-university-amritsar-campus/",
@@ -47,6 +47,8 @@
     ],
     "lat": 31.6382145,
     "lng": 74.8226058,
-    "isNew": yes
+    "isNew": true,
+    "verifiedOn": "2026-10-30",
+    "verificationUrl": "https://www.meetup.com/aws-sbg-at-guru-nanak-dev-university-amritsar-campus/"
   }
 ]
