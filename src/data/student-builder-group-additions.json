@@ -10,7 +10,7 @@
     "ledBy": [
       {
         "name": "Naami Ahmed",
-        "imageUrl": "https://avatars.builderprofile.aws.dev/2u9bl0XpQecr8sGGnRbBT4xBbzm.webp",
+        "imageUrl": "https://avatars.builderprofile.aws.dev/2u9b10XpQecr8sGGnRbBT4xBbzm.webp",
         "profileUrl": "https://builder.aws.com/community/@naamiahmed",
         "socialLinks": {
           "linkedin": "https://linkedin.com/in/naami-ahmed/",
@@ -27,5 +27,24 @@
     "isNew": false,
     "verifiedOn": "2026-09-06",
     "verificationUrl": "https://www.meetup.com/aws-sbg-at-itum/"
+  },
+  {
+    "name": "AWS Student Builder Group at Guru Nanak Dev University",
+    "category": "cloud-clubs",
+    "location": "Amritsar, India",
+    "ledBy": [
+      {
+        "name": "Prabhnoor Singh",
+        "profileUrl": "https://builder.aws.com/community/@prabhnoorsingh",
+        "socialLinks": {
+          "linkedin": "https://www.linkedin.com/in/prabhnoor-singh-723323278",
+          "github": "https://github.com/prabhnoors386-tech",
+          "Instagram": "https://www.instagram.com/prabhnoor.singh.1"
+        }
+      }
+    ],
+    "lat": 31.6366,
+    "lng": 74.8251,
+    "isNew": yes
   }
 ]
